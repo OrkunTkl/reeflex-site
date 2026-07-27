@@ -1,0 +1,11 @@
+Model Information:
+* title:	Fels
+* source:	https://sketchfab.com/3d-models/fels-2ecb935dda704dce8bab666687c8766e
+* author:	gh1 (https://sketchfab.com/gh1)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Fels" (https://sketchfab.com/3d-models/fels-2ecb935dda704dce8bab666687c8766e) by gh1 (https://sketchfab.com/gh1) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
